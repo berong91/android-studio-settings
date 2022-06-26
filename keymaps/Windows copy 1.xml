@@ -1,0 +1,10 @@
+<keymap version="1" name="Windows copy 1" parent="$default">
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+</keymap>
