@@ -5,25 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="LMV600TMfb9ad98a" />
+            <value value="LMG710AWM2dcd0b54" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-12T16:19:11.197492100Z" />
-        <name value="LGE LM-V600" />
-        <target value="Android 11.0" />
-        <api value="30" />
+        <name value="LGE LM-G710" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="LMG710AWM2dcd0b54" />
+            <value value="LMV600TMfb9ad98a" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-01T23:47:16.960595300Z" />
-        <name value="LGE LM-G710" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <name value="LGE LM-V600" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
